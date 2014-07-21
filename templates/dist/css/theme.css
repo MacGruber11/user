@@ -1,0 +1,43 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+.theme-dropdown .dropdown-menu {
+  display: block;
+  position: static;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+.form-signin {
+  max-width: 330px;
+  
+}
+#title{
+    margin-top: 50px; 
+}
+.typeahead-devs, .tt-hint {
+font-size: 24px;
+height: 41px;
+line-height: 20px;
+outline: medium none;
+padding: 8px 12px;
+width: 300px;
+font-size: 0px;
+}
+
+.tt-dropdown-menu {
+width: 400px;
+margin-top: 5px;
+padding: 8px 12px;
+background-color: #fff;
+border: 1px solid #ccc;
+border: 1px solid rgba(0, 0, 0, 0.2);
+border-radius: 8px 8px 8px 8px;
+font-size: 18px;
+color: #111;
+background-color: #F1F1F1;
+}
